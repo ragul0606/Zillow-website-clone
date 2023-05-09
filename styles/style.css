@@ -437,11 +437,6 @@ footer {
 }
 
 @media screen and (min-width: 576px) {
-}
-
-/* Medium devices (tablets) */
-
-@media (min-width: 768px) {
   body {
     width: 100%;
     min-height: 100vh;

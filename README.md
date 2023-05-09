@@ -23,8 +23,8 @@ What I learned
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 Links
-Original site link : https://www.spacex.com/
+Original site link : https://www.zillow.com/
 
-Solution URL: https://github.com/ragul0606/SpaceX-Website-Clone
+Solution URL: https://github.com/ragul0606/Zillow-website-clone
 
-Live Site URL: https://tranquil-marshmallow-da013f.netlify.app/
+Live Site URL: https://heroic-jalebi-b2ecad.netlify.app/
